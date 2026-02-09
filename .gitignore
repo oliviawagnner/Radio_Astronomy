@@ -1,5 +1,6 @@
-# Data
+# Data files
 *.npz
+data/
 Old data/
 
 # Jupyter
@@ -11,5 +12,4 @@ __pycache__/
 
 # macOS
 .DS_Store
-
 
